@@ -1,1 +1,1 @@
-# net.movot.movot-desk4j
+# net-movot-desk4j
