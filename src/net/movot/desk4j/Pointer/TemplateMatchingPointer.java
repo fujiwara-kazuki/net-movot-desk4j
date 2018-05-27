@@ -12,7 +12,7 @@ import java.io.File;
 import javax.imageio.ImageIO;
 import javax.swing.JFrame;
 
-public class TemplateMatching {
+public class TemplateMatchingPointer extends Pointer {
 
 	static int xpos = 0; //テンプレートが一致したときのx座標
 	static int ypos = 0; //テンプレートが一致したときのy座標
